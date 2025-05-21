@@ -1,0 +1,17 @@
+# Build results
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*.dbmdl
+*.log
+UpgradeLog.htm
+
+# Others
+Publish/
+packages/
